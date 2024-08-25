@@ -1,0 +1,16 @@
+download python, installer python, 64bit, click both boxes, install now
+check in cmd, write python -v, verion3.1.4
+03344301344 sajjad
+terminal exit control+Z
+cmd, config --list, git config --global user.name "Muhammad Bilal", enter
+git config --global user.email hafizmuhammadbilalsheikh.005@gmail.com
+git config --list
+extensions, download material icon theme with folder icon
+prettier code formatter with colourful P icon 
+git lense git supper charged
+code spell checker with green circle tick with spell
+python
+python debugger
+code runner
+jupyter 
+cntr+shift+p, default format
